@@ -3,7 +3,7 @@ import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
-import Confetti from 'react-confetti'
+import PlanetScene from './PlanetScene'
 
 function App() {
   const [count, setCount] = useState(0)
